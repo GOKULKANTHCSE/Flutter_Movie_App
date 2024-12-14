@@ -38,6 +38,7 @@ dependencies:
   flutter_riverpod: ^2.6.1
   dio: ^5.7.0
   get_it: ^8.0.2
+  flutter_native_splash: 
 
 dev_dependencies:
   flutter_test:
